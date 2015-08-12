@@ -1,0 +1,9 @@
+{
+  "name": "socketio-jwt",
+  "version": "4.2.0",
+  "homepage": "https://github.com/Jupitar/socketio-jwt",
+  "authors": [
+    "Jordan Schoen <jordan@fierysolid.com>"
+  ],
+  "license": "MIT"
+}
